@@ -7,11 +7,8 @@
         "id": "7da23559b26e2aa2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "递归与递推/测试obsidian git插件.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "递归与递推/测试obsidian git插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
