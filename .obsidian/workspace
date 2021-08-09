@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "372650ad77d22950",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da23559b26e2aa2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "递归与递推/p1002过河卒.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be7a9b19131b491f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6458497765453ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db99db853c3712f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69a8c94bcb5fefac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a9d72ce3e6b5c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c36301dd1daa5fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7011476ab3c22543",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "递归与递推/p1002过河卒.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7da23559b26e2aa2",
+  "lastOpenFiles": [
+    "递归与递推/p1002过河卒.md",
+    "递归与递推/p2473 蜜蜂路线.md",
+    "递归与递推/p1464 function.md",
+    "搜索/p1443马的遍历.md",
+    "算法概论读书笔记/树.md",
+    "算法概论读书笔记/未命名.md",
+    "算法概论读书笔记/Chapter 0 序言.md",
+    "搜索/p1219 八皇后.md",
+    "搜索/P1135 奇怪的电梯.md",
+    "搜索/P1036 [NOIP2002 普及组] 选数.md"
+  ]
+}
