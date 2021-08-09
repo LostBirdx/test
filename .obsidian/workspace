@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "递归与递推/p1002过河卒.md",
+            "file": "递归与递推/测试obsidian git插件.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "递归与递推/p1002过河卒.md",
+                "file": "递归与递推/测试obsidian git插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7da23559b26e2aa2",
   "lastOpenFiles": [
+    "递归与递推/未命名.md",
     "递归与递推/p1002过河卒.md",
     "递归与递推/p2473 蜜蜂路线.md",
     "递归与递推/p1464 function.md",
@@ -96,7 +97,6 @@
     "算法概论读书笔记/未命名.md",
     "算法概论读书笔记/Chapter 0 序言.md",
     "搜索/p1219 八皇后.md",
-    "搜索/P1135 奇怪的电梯.md",
-    "搜索/P1036 [NOIP2002 普及组] 选数.md"
+    "搜索/P1135 奇怪的电梯.md"
   ]
 }
